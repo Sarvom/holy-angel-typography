@@ -227,14 +227,14 @@ types using `<font-name>-font` font-family and font-sizes.
 
 -- ftd.type heading-hero-mobile:
 line-height.px: 60
-size.px: 52
+size.px: 80
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-hero-desktop:
 line-height.px: 60
-size.px: 52
+size.px: 80
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
