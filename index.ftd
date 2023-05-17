@@ -226,16 +226,17 @@ types using `<font-name>-font` font-family and font-sizes.
 
 
 -- ftd.type heading-hero-mobile:
-line-height.px: 60
-size.px: 80
+line-height.px: 65
+size.px: 50
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-hero-desktop:
-line-height.px: 60
+line-height.px: 104
 size.px: 80
 letter-spacing.px: 0
+style: normal
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
 
@@ -248,15 +249,15 @@ mobile: $heading-hero-mobile
 
 
 -- ftd.type heading-large-mobile:
-line-height.px: 48
-size.px: 40
+line-height.px: 57
+size.px: 38
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-large-desktop:
-line-height.px: 48
-size.px: 40
+line-height.px: 65
+size.px: 50
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
@@ -270,15 +271,15 @@ mobile: $heading-large-mobile
 
 
 -- ftd.type heading-medium-mobile:
-line-height.px: 44
-size.px: 32
+line-height.px: 57
+size.px: 38
 letter-spacing.px: 0
 weight: 600
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-medium-desktop:
-line-height.px: 44
-size.px: 32
+line-height.px: 57
+size.px: 38
 letter-spacing.px: 0
 font-family: $poppins-assets.fonts.Poppins
 weight: 600
@@ -292,14 +293,14 @@ mobile: $heading-medium-mobile
 
 
 -- ftd.type heading-small-mobile:
-line-height.px: 36
+line-height.px: 31
 size.px: 24
 letter-spacing.px: 0
 weight: 500
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-small-desktop:
-line-height.px: 36
+line-height.px: 31
 size.px: 24
 letter-spacing.px: 0
 weight: 500
@@ -316,14 +317,14 @@ mobile: $heading-small-mobile
 
 -- ftd.type heading-tiny-mobile:
 line-height.px: 26
-size.px: 18
+size.px: 20
 letter-spacing.px: 0
 weight: 500
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-tiny-desktop:
 line-height.px: 26
-size.px: 18
+size.px: 20
 letter-spacing.px: 0
 weight: 500
 font-family: $poppins-assets.fonts.Poppins
@@ -341,13 +342,13 @@ line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
 weight: 400
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type copy-large-desktop:
 line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 weight: 400
 
 -- ftd.responsive-type copy-large:
@@ -363,13 +364,13 @@ line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type copy-regular-desktop:
 line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 weight: 400
 
 -- ftd.responsive-type copy-regular:
@@ -385,7 +386,7 @@ line-height.px: 20
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 
 
 -- ftd.type copy-small-desktop:
@@ -393,7 +394,7 @@ line-height.px: 20
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $lato-assets.fonts.Lato
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.responsive-type copy-small:
 desktop: $copy-small-desktop
