@@ -360,7 +360,7 @@ mobile: $copy-large-mobile
 
 
 -- ftd.type copy-regular-mobile:
-line-height.px: 30
+line-height.px: 24
 size.px: 12
 letter-spacing.px: 0
 weight: 400
