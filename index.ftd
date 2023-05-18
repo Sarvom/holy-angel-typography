@@ -226,8 +226,8 @@ types using `<font-name>-font` font-family and font-sizes.
 
 
 -- ftd.type heading-hero-mobile:
-line-height.px: 65
-size.px: 50
+line-height.px: 54
+size.px: 36
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
@@ -249,8 +249,8 @@ mobile: $heading-hero-mobile
 
 
 -- ftd.type heading-large-mobile:
-line-height.px: 57
-size.px: 38
+line-height.px: 40
+size.px: 26
 letter-spacing.px: 0
 weight: 700
 font-family: $poppins-assets.fonts.Poppins
@@ -271,10 +271,10 @@ mobile: $heading-large-mobile
 
 
 -- ftd.type heading-medium-mobile:
-line-height.px: 57
-size.px: 38
+line-height.px: 29
+size.px: 22
 letter-spacing.px: 0
-weight: 600
+weight: 700
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type heading-medium-desktop:
@@ -293,8 +293,8 @@ mobile: $heading-medium-mobile
 
 
 -- ftd.type heading-small-mobile:
-line-height.px: 31
-size.px: 24
+line-height.px: 27
+size.px: 18
 letter-spacing.px: 0
 weight: 500
 font-family: $poppins-assets.fonts.Poppins
@@ -316,8 +316,8 @@ mobile: $heading-small-mobile
 
 
 -- ftd.type heading-tiny-mobile:
-line-height.px: 26
-size.px: 20
+line-height.px: 24
+size.px: 18
 letter-spacing.px: 0
 weight: 500
 font-family: $poppins-assets.fonts.Poppins
@@ -345,8 +345,8 @@ weight: 400
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type copy-large-desktop:
-line-height.px: 28
-size.px: 20
+line-height.px: 34
+size.px: 22
 letter-spacing.px: 0
 font-family: $poppins-assets.fonts.Poppins
 weight: 400
@@ -360,15 +360,15 @@ mobile: $copy-large-mobile
 
 
 -- ftd.type copy-regular-mobile:
-line-height.px: 24
-size.px: 16
+line-height.px: 30
+size.px: 12
 letter-spacing.px: 0
 weight: 400
 font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type copy-regular-desktop:
-line-height.px: 24
-size.px: 16
+line-height.px: 30
+size.px: 18
 letter-spacing.px: 0
 font-family: $poppins-assets.fonts.Poppins
 weight: 400
@@ -382,16 +382,16 @@ mobile: $copy-regular-mobile
 
 
 -- ftd.type copy-small-mobile:
-line-height.px: 20
-size.px: 16
+line-height.px: 16
+size.px: 12
 letter-spacing.px: 0
 weight: 400
 font-family: $poppins-assets.fonts.Poppins
 
 
 -- ftd.type copy-small-desktop:
-line-height.px: 20
-size.px: 16
+line-height.px: 24
+size.px: 14
 letter-spacing.px: 0
 weight: 400
 font-family: $poppins-assets.fonts.Poppins
